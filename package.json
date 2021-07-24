@@ -1,0 +1,21 @@
+{
+  "name": "crawl-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.19.1",
+    "puppeteer": "^10.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.3.2",
+    "ts-node": "^10.1.0",
+    "typescript": "^4.3.5"
+  }
+}
